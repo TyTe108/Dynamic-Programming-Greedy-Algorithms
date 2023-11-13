@@ -34,6 +34,6 @@ git clone https://github.com/TyTe108/Dynamic-Programming-Greedy-Algorithms.git
 cd Dynamic-Programming-Greedy-Algorithms/Assignment1
 ```
 
-##Contributing
+## Contributing
 
 This repository is for educational purposes. Suggestions or corrections are welcome.
