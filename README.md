@@ -32,6 +32,7 @@ To view or run the assignments, clone the repository and navigate to the respect
 ```bash
 git clone https://github.com/TyTe108/Dynamic-Programming-Greedy-Algorithms.git
 cd Dynamic-Programming-Greedy-Algorithms/Assignment1
+```
 
 ##Contributing
 
